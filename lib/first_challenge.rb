@@ -27,7 +27,6 @@ contacts.each do |person, data|
 
 
   #remember to return your newly altered contacts hash!
-  contacts
   contacts["Freddy Mercury"][:favorite_icecream_flavors]
 end
 
